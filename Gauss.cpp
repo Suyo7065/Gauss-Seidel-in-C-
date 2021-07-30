@@ -1,5 +1,6 @@
 // Solution Linear System of equation using Gauss Seidel Method.
 // Iterative Method.
+// one of the concept of Numerical Methods
 
 #include<iostream>
 #include<cmath>
